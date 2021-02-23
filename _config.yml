@@ -1,0 +1,13 @@
+rmarkdown::render_site("www")
+---
+title: "Lilly Campbell"
+---
+theme: jekyll-theme-tactile
+name: "Lilly Campbell's Professional Website"
+navbar:
+  title: "Title 1"
+  left:
+    - text: "Home"
+    href: index.html
+    - text: "About"
+    href: about.html 

@@ -1,7 +1,7 @@
 name: "www"
 output_dir: "../docs"
 navbar:
-  title: "Your Name"
+  title: "Lilly Campbell"
   left:
     - text: "Home"
       icon: fa-home
@@ -9,6 +9,9 @@ navbar:
     - text: "About Me"
       icon: fa-user-check
       href: about.html
+    - text: "Projects"
+      icon: fa-user-check
+      href: projects.html
     - text: "Blog"
       icon: fa-newspaper
       menu:

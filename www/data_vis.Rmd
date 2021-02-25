@@ -1,0 +1,6 @@
+---
+title: "Data Visualizations Gallary"
+output: html_document
+---
+
+is there anything better than an audiobook and a data vis project? here is a callary of my work 

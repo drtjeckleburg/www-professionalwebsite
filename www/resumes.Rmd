@@ -1,0 +1,9 @@
+---
+title: "Resumes/For Employers"
+output: html_document
+---
+
+-bioanalytics
+-business analytics
+-data science 
+-consulting

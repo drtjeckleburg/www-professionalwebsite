@@ -1,0 +1,5 @@
+---
+title: "Podcast Appearences"
+output: html_document
+---
+sometimes people ask me to be on their podcasts! here are some examples of this occuring if, for whatever reason, you want me to be on your podcast i do require a novalty t-shirt and or a loyalty pledge...lets be in touch

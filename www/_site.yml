@@ -31,13 +31,13 @@ navbar:
           href: post2.html
   right:
     - icon: fa-envelope 
-      href: mailto:bbaumer@smith.edu
+      href: mailto:lcampbell@smith.edu
     - icon: fa-github
-      href: http://www.github.com/beanumber
-    - icon: fa-twitter
-      href: http://www.twitter.com/BaumerBen
+      href: https://github.com/drtjeckleburg
+    - icon: fa-goodreads
+      href: https://www.goodreads.com/user/show/128540289-lilly
     - icon: fa-linkedin
-      href: https://www.linkedin.com/in/ben-baumer-809b3a75
+      href: https://www.linkedin.com/in/lillian-campbell/
 
 output:
   html_document:

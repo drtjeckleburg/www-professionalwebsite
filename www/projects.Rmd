@@ -1,0 +1,6 @@
+---
+title: "projects"
+output: html_document
+---
+
+here is a somewhat exhaustive list of my projects

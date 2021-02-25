@@ -1,5 +1,6 @@
 name: "www"
 output_dir: "../docs"
+#theme: "material"
 navbar:
   title: "Lilly Campbell"
   left:
@@ -12,6 +13,15 @@ navbar:
     - text: "Projects"
       icon: fa-user-check
       href: projects.html
+    - text: "Data Visualization Gallary"
+      icon: fa-user-check
+      href: data_vis.html
+    - text: "Podcast Appearences"
+      icon: fa-user-check
+      href: podcasts.html
+    - text: "Resumes/For Employers"
+      icon: fa-user-check
+      href: resumes.html
     - text: "Blog"
       icon: fa-newspaper
       menu:
